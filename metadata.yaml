@@ -1,5 +1,8 @@
 _repo: Tropical-Africa_74587
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74587-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Drummond, Henry
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/940
     wikipedia: https://en.wikipedia.org/wiki/Henry_Drummond
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74587#Tropical-Africa
 gutenberg_issued: '2024-10-15'
 gutenberg_type: Text
 identifiers:
